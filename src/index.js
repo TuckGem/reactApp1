@@ -14,7 +14,7 @@ root.render(
       <Weather />
     </div>
     <a
-            href="https://github.com/thandiweportia"
+            href="https://github.com/thandiwemasuku/reactApp"
             target="_blank"
             rel="noopener noreferrer"
           >
